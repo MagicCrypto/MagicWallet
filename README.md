@@ -1,2 +1,3 @@
 # MagicWallet
-An Open-Source Stellar Wallet for Adding LP and More directly on Your iPhone and Android
+
+An Open-Source Stellar Wallet for Interacting with DeFi directly on Your iPhone and Android
