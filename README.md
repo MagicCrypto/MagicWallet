@@ -1,3 +1,4 @@
 # MagicWallet
+A Multi-chain and Cross-Platform Mobile Wallet for Magic Staking on PoS Chains
 
-An Open-Source Stellar Wallet for Interacting with DeFi directly on Your iPhone and Android
+Our first target is Moonriver ($MOVR).
